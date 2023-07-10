@@ -2,6 +2,8 @@
 FusNet: A Deep Information Fusion Network for Medical Image Segmentation
 
 A.两个预加载模型：（.pth）
+        （可以通过百度网盘下载：链接：https://pan.baidu.com/s/1RA9SymkTiUCW_pHF4wi4iw?pwd=fusn 
+提取码：fusn ）
         1,res2net50_v1b_26w_4s-3cf99910.pth
                 注意更改fusnet/model/res2net.py中res2net50_v1b_26w_4s的读入位置
         2,swin_tiny_patch4_window7_224.pth
